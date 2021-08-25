@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Nara-Chatroom-React-app/static/css/main.a3267dda.chunk.css",
+    "main.js": "/Nara-Chatroom-React-app/static/js/main.449862c4.chunk.js",
+    "main.js.map": "/Nara-Chatroom-React-app/static/js/main.449862c4.chunk.js.map",
+    "runtime-main.js": "/Nara-Chatroom-React-app/static/js/runtime-main.bba959e9.js",
+    "runtime-main.js.map": "/Nara-Chatroom-React-app/static/js/runtime-main.bba959e9.js.map",
+    "static/js/2.4c1fe3e3.chunk.js": "/Nara-Chatroom-React-app/static/js/2.4c1fe3e3.chunk.js",
+    "static/js/2.4c1fe3e3.chunk.js.map": "/Nara-Chatroom-React-app/static/js/2.4c1fe3e3.chunk.js.map",
+    "static/js/3.a1874b82.chunk.js": "/Nara-Chatroom-React-app/static/js/3.a1874b82.chunk.js",
+    "static/js/3.a1874b82.chunk.js.map": "/Nara-Chatroom-React-app/static/js/3.a1874b82.chunk.js.map",
+    "index.html": "/Nara-Chatroom-React-app/index.html",
+    "static/css/main.a3267dda.chunk.css.map": "/Nara-Chatroom-React-app/static/css/main.a3267dda.chunk.css.map",
+    "static/js/2.4c1fe3e3.chunk.js.LICENSE.txt": "/Nara-Chatroom-React-app/static/js/2.4c1fe3e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bba959e9.js",
+    "static/js/2.4c1fe3e3.chunk.js",
+    "static/css/main.a3267dda.chunk.css",
+    "static/js/main.449862c4.chunk.js"
+  ]
+}
